@@ -1,0 +1,58 @@
+{
+  "en": {
+    "easy": [
+      "Hello, how are you?",
+      "I like apples."
+    ],
+    "medium": [
+      "She is reading a very interesting book.",
+      "We are going to the park after lunch."
+    ],
+    "hard": [
+      "Despite the heavy rain, the football match continued.",
+      "Technology is evolving faster than many people can adapt."
+    ]
+  },
+  "es": {
+    "easy": [
+      "Hola, ¿cómo estás?",
+      "Me gustan las manzanas."
+    ],
+    "medium": [
+      "Ella está leyendo un libro muy interesante.",
+      "Vamos al parque después del almuerzo."
+    ],
+    "hard": [
+      "A pesar de la fuerte lluvia, el partido de fútbol continuó.",
+      "La tecnología está evolucionando más rápido de lo que muchas personas pueden adaptarse."
+    ]
+  },
+  "zh-cn": {
+    "easy": [
+      "你好，你好吗？",
+      "我喜欢苹果。"
+    ],
+    "medium": [
+      "她正在读一本非常有趣的书。",
+      "我们午饭后要去公园。"
+    ],
+    "hard": [
+      "尽管下着大雨，足球比赛仍在继续。",
+      "科技的发展速度超过了许多人能够适应的程度。"
+    ]
+  },
+  "ar": {
+    "easy": [
+      "مرحباً، كيف حالك؟",
+      "أحب التفاح."
+    ],
+    "medium": [
+      "إنها تقرأ كتاباً ممتعاً جداً.",
+      "سنذهب إلى الحديقة بعد الغداء."
+    ],
+    "hard": [
+      "على الرغم من هطول الأمطار الغزيرة، استمرّت مباراة كرة القدم.",
+      "تتطور التكنولوجيا أسرع مما يستطيع الكثير من الناس التكيف معه."
+    ]
+  }
+}
