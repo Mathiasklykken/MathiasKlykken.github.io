@@ -1,0 +1,102 @@
+{
+  "no": {
+    "easy": [
+      "Vi feirer jul i desember.",
+      "Jeg liker jul og gaver.",
+      "Vi spiser ribbe til jul.",
+      "Vi pynter juletreet."
+    ],
+    "medium": [
+      "I Norge er det vanlig å slutte på jobb klokka fire.",
+      "Folk liker å være ute i naturen etter jobb.",
+      "Mange nordmenn drar på hytta i helgene.",
+      "Jeg synes det er viktig med fritid."
+    ],
+    "hard": [
+      "Likestilling er viktig i Norge og påvirker både arbeid og hjemmeliv.",
+      "Janteloven betyr at man ikke skal tro man er bedre enn andre.",
+      "Mange nordmenn setter pris på privatliv og ærlighet.",
+      "Norske verdier reflekterer respekt for både familie og samfunn."
+    ]
+  },
+  "en": {
+    "easy": [
+      "We celebrate Christmas in December.",
+      "I like Christmas and gifts.",
+      "We eat roast pork at Christmas.",
+      "We decorate the Christmas tree."
+    ],
+    "medium": [
+      "In Norway, it is common to finish work at four o'clock.",
+      "People like to spend time outdoors after work.",
+      "Many Norwegians go to their cabin on weekends.",
+      "I think leisure time is important."
+    ],
+    "hard": [
+      "Equality is important in Norway and affects both work and home life.",
+      "The Jante Law means you should not think you are better than others.",
+      "Many Norwegians value privacy and honesty.",
+      "Norwegian values reflect respect for both family and society."
+    ]
+  },
+  "es": {
+    "easy": [
+      "Celebramos la Navidad en diciembre.",
+      "Me gusta la Navidad y los regalos.",
+      "Comemos cerdo asado en Navidad.",
+      "Decoramos el árbol de Navidad."
+    ],
+    "medium": [
+      "En Noruega es común terminar el trabajo a las cuatro.",
+      "A la gente le gusta pasar tiempo al aire libre después del trabajo.",
+      "Muchos noruegos van a su cabaña los fines de semana.",
+      "Creo que el tiempo libre es importante."
+    ],
+    "hard": [
+      "La igualdad es importante en Noruega y afecta tanto el trabajo como la vida familiar.",
+      "La Ley de Jante significa que no debes pensar que eres mejor que los demás.",
+      "Muchos noruegos valoran la privacidad y la honestidad.",
+      "Los valores noruegos reflejan respeto tanto por la familia como por la sociedad."
+    ]
+  },
+  "zh-cn": {
+    "easy": [
+      "我们在十二月庆祝圣诞节。",
+      "我喜欢圣诞节和礼物。",
+      "圣诞节我们吃烤猪肉。",
+      "我们装饰圣诞树。"
+    ],
+    "medium": [
+      "在挪威，通常四点钟下班。",
+      "人们喜欢下班后到户外活动。",
+      "许多挪威人周末会去小木屋。",
+      "我认为休闲时间很重要。"
+    ],
+    "hard": [
+      "平等在挪威很重要，影响工作和家庭生活。",
+      "Jante 法则意味着你不应该认为自己比别人更优秀。",
+      "许多挪威人重视隐私和诚实。",
+      "挪威的价值观体现了对家庭和社会的尊重。"
+    ]
+  },
+  "ar": {
+    "easy": [
+      "نحتفل بعيد الميلاد في ديسمبر.",
+      "أحب عيد الميلاد والهدايا.",
+      "نأكل لحم الخنزير المشوي في عيد الميلاد.",
+      "نزين شجرة عيد الميلاد."
+    ],
+    "medium": [
+      "في النرويج، من الشائع الانتهاء من العمل الساعة الرابعة.",
+      "يحب الناس قضاء الوقت في الهواء الطلق بعد العمل.",
+      "يذهب العديد من النرويجيين إلى الكوخ في عطلة نهاية الأسبوع.",
+      "أعتقد أن وقت الفراغ مهم."
+    ],
+    "hard": [
+      "المساواة مهمة في النرويج وتؤثر على العمل والحياة المنزلية.",
+      "قانون جانتي يعني أنه لا يجب أن تعتقد أنك أفضل من الآخرين.",
+      "يقدّر العديد من النرويجيين الخصوصية والصدق.",
+      "القيم النرويجية تعكس الاحترام لكل من الأسرة والمجتمع."
+    ]
+  }
+}
