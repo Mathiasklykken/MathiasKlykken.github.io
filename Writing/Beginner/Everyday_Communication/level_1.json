@@ -1,0 +1,37 @@
+{
+  "no": [
+    "Hei! Hvordan har du det?",
+    "Takk for hjelpen!",
+    "Jeg blir litt sen i dag.",
+    "Ha en fin dag!",
+    "Vi sees i morgen!"
+  ],
+  "en": [
+    "Hi! How are you?",
+    "Thank you for your help!",
+    "I will be a little late today.",
+    "Have a nice day!",
+    "See you tomorrow!"
+  ],
+  "es": [
+    "¡Hola! ¿Cómo estás?",
+    "Gracias por tu ayuda.",
+    "Llegaré un poco tarde hoy.",
+    "¡Que tengas un buen día!",
+    "Nos vemos mañana."
+  ],
+  "zh-cn": [
+    "你好！你好吗？",
+    "谢谢你的帮助！",
+    "我今天会晚一点到。",
+    "祝你有美好的一天！",
+    "明天见！"
+  ],
+  "ar": [
+    "مرحباً! كيف حالك؟",
+    "شكراً لمساعدتك!",
+    "سأتأخر قليلاً اليوم.",
+    "أتمنى لك يوماً سعيداً!",
+    "أراك غداً!"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "no": [
+    "Hei, jeg ville bare bekrefte møtet klokken ti i morgen.",
+    "Kan du sende meg filen før lunsj?",
+    "Jeg gleder meg til helgen.",
+    "Takk igjen for meldingen din, jeg setter stor pris på det.",
+    "Gi beskjed hvis du trenger noe mer."
+  ],
+  "en": [
+    "Hi, I just wanted to confirm the meeting at ten tomorrow.",
+    "Can you please send me the file before lunch?",
+    "I'm looking forward to the weekend.",
+    "Thanks again for your message, I really appreciate it.",
+    "Let me know if you need anything else."
+  ],
+  "es": [
+    "Hola, solo quería confirmar la reunión a las diez de mañana.",
+    "¿Puedes enviarme el archivo antes del almuerzo?",
+    "Tengo muchas ganas del fin de semana.",
+    "Gracias de nuevo por tu mensaje, lo aprecio mucho.",
+    "Avísame si necesitas algo más."
+  ],
+  "zh-cn": [
+    "你好，我只是想确认一下明天十点的会议。",
+    "请在午饭前把文件发给我。",
+    "我很期待周末。",
+    "再次感谢你的留言，我非常感激。",
+    "如果你还需要什么，请告诉我。"
+  ],
+  "ar": [
+    "مرحباً، أردت فقط تأكيد الاجتماع في الساعة العاشرة غداً.",
+    "هل يمكنك إرسال الملف قبل الغداء من فضلك؟",
+    "أتطلع حقاً إلى عطلة نهاية الأسبوع.",
+    "شكراً مرة أخرى على رسالتك، أقدر ذلك كثيراً.",
+    "أخبرني إذا كنت بحاجة إلى أي شيء آخر."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "no": [
+    "Jeg bor i Oslo.",
+    "Jeg liker norsk mat.",
+    "Vi feirer jul i desember.",
+    "Jeg jobber på skole.",
+    "Nordmenn drikker mye kaffe.",
+    "Jeg går tur i helgen."
+  ],
+  "en": [
+    "I live in Oslo.",
+    "I like Norwegian food.",
+    "We celebrate Christmas in December.",
+    "I work at a school.",
+    "Norwegians drink a lot of coffee.",
+    "I go hiking on weekends."
+  ],
+  "es": [
+    "Vivo en Oslo.",
+    "Me gusta la comida noruega.",
+    "Celebramos la Navidad en diciembre.",
+    "Trabajo en una escuela.",
+    "Los noruegos beben mucho café.",
+    "Salgo a caminar los fines de semana."
+  ],
+  "zh-cn": [
+    "我住在奥斯陆。",
+    "我喜欢挪威菜。",
+    "我们在十二月庆祝圣诞节。",
+    "我在学校工作。",
+    "挪威人喝很多咖啡。",
+    "我周末去散步。"
+  ],
+  "ar": [
+    "أعيش في أوسلو.",
+    "أحب الطعام النرويجي.",
+    "نحتفل بعيد الميلاد في ديسمبر.",
+    "أعمل في مدرسة.",
+    "النرويجيون يشربون الكثير من القهوة.",
+    "أذهب في نزهة في عطلة نهاية الأسبوع."
+  ]
+}
