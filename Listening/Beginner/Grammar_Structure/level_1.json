@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Jeg spiser brød.",
+      "options": [
+        "Jeg spiser brød.",
+        "Jeg drikker vann.",
+        "Jeg leser en bok.",
+        "Jeg går til skolen."
+      ],
+      "correct": "Jeg spiser brød."
+    },
+    {
+      "text": "Han bor i Bergen.",
+      "options": [
+        "Han jobber i Oslo.",
+        "Han bor i Bergen.",
+        "Han går til skolen.",
+        "Han spiser middag."
+      ],
+      "correct": "Han bor i Bergen."
+    },
+    {
+      "text": "Vi snakker norsk.",
+      "options": [
+        "Vi snakker norsk.",
+        "Vi spiser pizza.",
+        "Vi bor i Sverige.",
+        "Vi kjører bil."
+      ],
+      "correct": "Vi snakker norsk."
+    }
+  ]
+}

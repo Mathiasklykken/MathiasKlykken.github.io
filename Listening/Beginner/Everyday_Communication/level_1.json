@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Hei, hvordan går det?",
+      "options": [
+        "Hei, hvordan går det?",
+        "Hva heter du?",
+        "Hvor bor du?",
+        "Når spiser du?"
+      ],
+      "correct": "Hei, hvordan går det?"
+    },
+    {
+      "text": "Jeg heter Anna.",
+      "options": [
+        "Jeg bor i Norge.",
+        "Jeg heter Anna.",
+        "Jeg jobber i Oslo.",
+        "Jeg snakker engelsk."
+      ],
+      "correct": "Jeg heter Anna."
+    },
+    {
+      "text": "Ha en fin dag!",
+      "options": [
+        "Ha en fin dag!",
+        "God natt!",
+        "God morgen!",
+        "Hvordan har du det?"
+      ],
+      "correct": "Ha en fin dag!"
+    }
+  ]
+}

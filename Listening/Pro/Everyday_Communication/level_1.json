@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Beklager at jeg er sen, det var mye trafikk på veien hit.",
+      "options": [
+        "Personen sier unnskyld fordi han kom for sent.",
+        "Personen forteller at han har ferie.",
+        "Personen sier at trafikken var rask i dag.",
+        "Personen forteller at han skal reise i morgen."
+      ],
+      "correct": "Personen sier unnskyld fordi han kom for sent."
+    },
+    {
+      "text": "Jeg lurte på om du kunne sende meg dokumentet i løpet av dagen.",
+      "options": [
+        "Personen spør høflig om dokumentet kan sendes i dag.",
+        "Personen sier at han allerede har sendt dokumentet.",
+        "Personen nekter å sende dokumentet.",
+        "Personen spør når neste møte er."
+      ],
+      "correct": "Personen spør høflig om dokumentet kan sendes i dag."
+    },
+    {
+      "text": "Det hadde vært hyggelig å møtes til lunsj en dag hvis du har tid.",
+      "options": [
+        "Personen foreslår å møtes til lunsj.",
+        "Personen avslår en lunsjavtale.",
+        "Personen sier at han ikke liker lunsj.",
+        "Personen spør om veien til restauranten."
+      ],
+      "correct": "Personen foreslår å møtes til lunsj."
+    }
+  ]
+}

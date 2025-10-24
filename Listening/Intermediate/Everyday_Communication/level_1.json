@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "text": "Unnskyld, kan du hjelpe meg med å finne veien til stasjonen?",
+      "options": [
+        "Personen spør om hjelp til å finne stasjonen.",
+        "Personen spør hva klokka er.",
+        "Personen spør hvor butikken ligger.",
+        "Personen sier at han er på ferie."
+      ],
+      "correct": "Personen spør om hjelp til å finne stasjonen."
+    },
+    {
+      "text": "Jeg vil gjerne bestille en kopp kaffe, takk.",
+      "options": [
+        "Personen vil bestille en kopp kaffe.",
+        "Personen sier at kaffen er for varm.",
+        "Personen ber om regningen.",
+        "Personen bestiller et glass vann."
+      ],
+      "correct": "Personen vil bestille en kopp kaffe."
+    },
+    {
+      "text": "Kan du gjenta det, vær så snill?",
+      "options": [
+        "Personen ber om at noe blir gjentatt.",
+        "Personen sier farvel.",
+        "Personen sier at han forstår alt.",
+        "Personen introduserer seg."
+      ],
+      "correct": "Personen ber om at noe blir gjentatt."
+    }
+  ]
+}
+
+

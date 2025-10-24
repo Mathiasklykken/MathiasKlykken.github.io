@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "text": "Jeg har bodd i Norge i tre år.",
+      "options": [
+        "Jeg har bodd i Norge i tre år.",
+        "Jeg skal flytte til Norge neste år.",
+        "Jeg har aldri vært i Norge.",
+        "Jeg reiser til Norge i morgen."
+      ],
+      "correct": "Jeg har bodd i Norge i tre år."
+    },
+    {
+      "text": "Hun liker å lese bøker når hun har tid.",
+      "options": [
+        "Hun liker å lese bøker når hun har tid.",
+        "Hun liker å løpe i skogen hver morgen.",
+        "Hun hater å lese bøker.",
+        "Hun sover når hun har tid."
+      ],
+      "correct": "Hun liker å lese bøker når hun har tid."
+    },
+    {
+      "text": "Hvis det regner, tar jeg med paraply.",
+      "options": [
+        "Hvis det regner, tar jeg med paraply.",
+        "Jeg går alltid uten paraply.",
+        "Jeg liker ikke regn, men jeg går ut likevel.",
+        "Jeg mister alltid paraplyen min."
+      ],
+      "correct": "Hvis det regner, tar jeg med paraply."
+    }
+  ]
+}
+
+

@@ -1,0 +1,35 @@
+{
+  "tasks": [
+    {
+      "text": "Nordmenn feirer nasjonaldagen 17. mai med tog og flagg.",
+      "options": [
+        "Nordmenn feirer 17. mai med tog og flagg.",
+        "Nordmenn feirer jul i juli.",
+        "17. mai er nyttårsaften.",
+        "Nordmenn feirer påske med fyrverkeri."
+      ],
+      "correct": "Nordmenn feirer 17. mai med tog og flagg."
+    },
+    {
+      "text": "Mange drar på hytta i helgene for å slappe av.",
+      "options": [
+        "Mange drar på hytta i helgene for å slappe av.",
+        "Folk går på jobb hver helg.",
+        "De fleste bor på hotellet hver helg.",
+        "Folk reiser til utlandet hver helg."
+      ],
+      "correct": "Mange drar på hytta i helgene for å slappe av."
+    },
+    {
+      "text": "Det norske samfunnet verdsetter likhet og respekt.",
+      "options": [
+        "Det norske samfunnet verdsetter likhet og respekt.",
+        "Nordmenn liker ikke samarbeid.",
+        "Det norske samfunnet er veldig lukket.",
+        "Nordmenn feirer forskjeller med konkurranser."
+      ],
+      "correct": "Det norske samfunnet verdsetter likhet og respekt."
+    }
+  ]
+}
+

@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Norge er et land i Europa.",
+      "options": [
+        "Norge er et land i Europa.",
+        "Norge er en by i Sverige.",
+        "Norge er et fjell.",
+        "Norge er et språk."
+      ],
+      "correct": "Norge er et land i Europa."
+    },
+    {
+      "text": "Oslo er hovedstaden i Norge.",
+      "options": [
+        "Bergen er hovedstaden i Norge.",
+        "Oslo er hovedstaden i Norge.",
+        "Trondheim er hovedstaden i Norge.",
+        "Stockholm er hovedstaden i Norge."
+      ],
+      "correct": "Oslo er hovedstaden i Norge."
+    },
+    {
+      "text": "Det norske flagget er rødt, hvitt og blått.",
+      "options": [
+        "Flagget er grønt og gult.",
+        "Flagget er blått og hvitt.",
+        "Flagget er rødt, hvitt og blått.",
+        "Flagget er svart og oransje."
+      ],
+      "correct": "Flagget er rødt, hvitt og blått."
+    }
+  ]
+}

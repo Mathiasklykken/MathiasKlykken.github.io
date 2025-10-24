@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Etter at jeg flyttet til Norge, har jeg blitt mye bedre i norsk.",
+      "options": [
+        "Etter at jeg flyttet til Norge, har jeg blitt mye bedre i norsk.",
+        "Jeg lærte norsk før jeg flyttet til Norge.",
+        "Jeg flyttet til Norge fordi jeg allerede snakket flytende norsk.",
+        "Jeg har ikke lært noe nytt etter at jeg flyttet til Norge."
+      ],
+      "correct": "Etter at jeg flyttet til Norge, har jeg blitt mye bedre i norsk."
+    },
+    {
+      "text": "Hvis jeg hadde hatt mer tid, ville jeg ha lært flere språk.",
+      "options": [
+        "Hvis jeg hadde hatt mer tid, ville jeg ha lært flere språk.",
+        "Jeg har ikke tid, men jeg lærer mange språk.",
+        "Jeg vil aldri lære et nytt språk.",
+        "Jeg har mye tid, men jeg liker ikke språk."
+      ],
+      "correct": "Hvis jeg hadde hatt mer tid, ville jeg ha lært flere språk."
+    },
+    {
+      "text": "Jo mer jeg øver, desto lettere blir det å forstå grammatikk.",
+      "options": [
+        "Jo mer jeg øver, desto lettere blir det å forstå grammatikk.",
+        "Jeg øver aldri, men jeg forstår alt.",
+        "Grammatikk blir vanskeligere jo mer jeg øver.",
+        "Jeg synes grammatikk er lett uten å øve."
+      ],
+      "correct": "Jo mer jeg øver, desto lettere blir det å forstå grammatikk."
+    }
+  ]
+}

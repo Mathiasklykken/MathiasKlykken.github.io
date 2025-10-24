@@ -1,0 +1,35 @@
+{
+  "tasks": [
+    {
+      "text": "Selv om været ofte er dårlig, elsker nordmenn å tilbringe tid ute i naturen.",
+      "options": [
+        "Nordmenn liker å være ute, selv når været ikke er bra.",
+        "Nordmenn liker bare å være inne når det regner.",
+        "Nordmenn går aldri ut hvis det snør.",
+        "Nordmenn foretrekker å reise til utlandet i helgene."
+      ],
+      "correct": "Nordmenn liker å være ute, selv når været ikke er bra."
+    },
+    {
+      "text": "Mange mener at dugnadsånden viser hvor sterkt fellesskapet står i Norge.",
+      "options": [
+        "Dugnadsånden viser at nordmenn samarbeider og hjelper hverandre.",
+        "Nordmenn liker ikke å hjelpe naboene sine.",
+        "Dugnadsånden betyr at alle må jobbe for penger.",
+        "I Norge finnes det ikke frivillig arbeid."
+      ],
+      "correct": "Dugnadsånden viser at nordmenn samarbeider og hjelper hverandre."
+    },
+    {
+      "text": "Den norske velferdsstaten bygger på tillit mellom innbyggere og myndigheter.",
+      "options": [
+        "Velferdsstaten i Norge er basert på gjensidig tillit.",
+        "Norge har ingen velferdsordninger.",
+        "Velferdssystemet i Norge fungerer ikke godt.",
+        "Tilliten mellom folk og staten er svak i Norge."
+      ],
+      "correct": "Velferdsstaten i Norge er basert på gjensidig tillit."
+    }
+  ]
+}
+
